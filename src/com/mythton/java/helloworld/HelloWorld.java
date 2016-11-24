@@ -2,9 +2,7 @@ package com.mythton.java.helloworld;
 
 public class HelloWorld {
 
-	/**
-	 * @param args
-	 */
+	//	Test commit from eclipse.	-njacks
 	public static void main(String[] args) {
 		System.out.println("Hello world!");
 	}
